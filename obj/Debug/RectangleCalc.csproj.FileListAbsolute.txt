@@ -1,0 +1,10 @@
+D:\Visual Studio files\RectangleCalc\bin\Debug\RectangleCalc.exe.config
+D:\Visual Studio files\RectangleCalc\bin\Debug\RectangleCalc.exe
+D:\Visual Studio files\RectangleCalc\bin\Debug\RectangleCalc.pdb
+D:\Visual Studio files\RectangleCalc\obj\Debug\RectangleCalc.csprojAssemblyReference.cache
+D:\Visual Studio files\RectangleCalc\obj\Debug\RectangleCalc.Properties.Resources.resources
+D:\Visual Studio files\RectangleCalc\obj\Debug\RectangleCalc.csproj.GenerateResource.cache
+D:\Visual Studio files\RectangleCalc\obj\Debug\RectangleCalc.csproj.CoreCompileInputs.cache
+D:\Visual Studio files\RectangleCalc\obj\Debug\RectangleCalc.exe
+D:\Visual Studio files\RectangleCalc\obj\Debug\RectangleCalc.pdb
+D:\Visual Studio files\RectangleCalc\obj\Debug\RectangleCalc.Form1.resources

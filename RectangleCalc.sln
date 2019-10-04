@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleCalc", "RectangleCalc.csproj", "{9F26BA1E-6241-4DE2-893B-1E66192FFFD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F26BA1E-6241-4DE2-893B-1E66192FFFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F26BA1E-6241-4DE2-893B-1E66192FFFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F26BA1E-6241-4DE2-893B-1E66192FFFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F26BA1E-6241-4DE2-893B-1E66192FFFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556113FB-3DED-452C-AA36-DB9FC918E150}
+	EndGlobalSection
+EndGlobal
